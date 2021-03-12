@@ -1,24 +1,39 @@
-# README
+# Portfolio Site- Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Personal site backend. Frontend repo can be found here- https://github.com/rel-ross/portfolio-site-frontend
 
-Things you may want to cover:
+## Table of Contents
+<ul>
+  <li>General Info</li>
+  <li>Video</li>
+  <li>Technologies</li>
+  <li>Setup</li>
+  <li>Features</li>
+  <li>Unfinished Features</li>
+  <li>Contact</li>
+</ul>
 
-* Ruby version
+## General Info
+My personal website for portfolio pieces
 
-* System dependencies
+## Video
+https://www.loom.com/share/895afbcdfe86448cbac4b37883d6b26c
 
-* Configuration
 
-* Database creation
+## Technologies
+<ul>
+<li>Ruby - version 2.6.1</li>
+<li>Rails - version 6.1.1</li>
+<li>SQLite3 - version 1.4</li>
+</ul>
 
-* Database initialization
+## Setup
+To run this project: <ol>
+  <li>Install file locally by cloning the GitHub repository. </li>
+  <li>Run rails db:migrate</li>
+  <li>Start server with rails s</li>
+  </ol>
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contact
+Created by <br>
+<a href="https://www.linkedin.com/in/arielleross/" target="_blank">Arielle Ross</a><br>
